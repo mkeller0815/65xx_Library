@@ -10,7 +10,7 @@ There are also some useful chip labels for print out
 
 ## 2.0 KiCad Library
 
-![Component Example] (https://github.com/mkeller0815/65xx_Library/raw/img/kicad_component.png)
+![Component Example] (https://raw.githubusercontent.com/mkeller0815/65xx_Library/master/img/kicad_component.png)
 
 KiCad can be found under: 
 (http://www.kicad-pcb.org/display/KICAD/KiCad+EDA+Software+Suite)
@@ -19,7 +19,7 @@ This Library can be found in the KiCad folder
 
 ## 3.0 Chip Label
 
-![Component Example] (https://github.com/mkeller0815/65xx_Library/raw/img/label_demo.png)
+![Component Example] (https://raw.githubusercontent.com/mkeller0815/65xx_Library/master/img/label_demo.png)
 
 Additionally I've created some labels that can be glued on the top of an IC for easier wiring. 
 The Labels are created as SVG file and exported to a PNG and PDF version. 
