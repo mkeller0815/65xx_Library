@@ -17,7 +17,13 @@ This is a KiCad (http://www.kicad-pcb.org) Library for 65xx parts.
  - W65C816S	16bit CPU
  - MC6850	ACIA (Motorola)
 
-## 3.0 Modules
+## 3.0 Alternate Layout 
+
+There are different Layouts for some components. Mostly for parts with a bigger data- or address bus.
+The default layout has the same arangement of pins as the chip. The altenate layout (identified by a 
+'_' at the end of the name is arranged for more convenient bus connectivity.
+
+## 4.0 Modules
 
 Currently there are no additional modules needed, because all parts are default 600mil PDIP parts.
 You can easy assign the right footprint by using the Sockets_DIP module library in the cvpcb tool. 
