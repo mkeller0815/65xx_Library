@@ -10,6 +10,7 @@ This is a KiCad (http://www.kicad-pcb.org) Library for 65xx parts.
 ## 2.0 Supported parts
 
  - R6532 	RIOT
+ - 6510 / 8500	8bit CPU
  - W65C02	8bit CPU
  - W65C21	PIA
  - W65C22	CIA
